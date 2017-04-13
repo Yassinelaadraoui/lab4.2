@@ -4,6 +4,9 @@ public class main {
  		System.out.println("Product value is " + product.countValue());
  		product.printProduct();
  	}
+ 	public void changeBalance(int newValue) {
+            
+    	}
 }
 class Product {
 	private String name;
